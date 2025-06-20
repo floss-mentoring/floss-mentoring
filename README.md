@@ -1,5 +1,8 @@
 ## FLOSS-Mentoring
 
+> [!NOTE]
+> At **Open Source Summit**? See our dedicated [OSSNA-25](/ossna-25) section
+
 ### 💁 Who are we?
 
 FLOSS-Mentoring is a cross-sector interest group supporting mentorship in open source, comprised of educators, maintainers, program/organization directors, and more. 
