@@ -8,14 +8,13 @@ Attend our session:
 >🔗[Sched event](https://ossna2025.sched.com/event/23YvJ/floss-mentorship-unconference-a-community-event-to-share-shape-scale-mentoring-efforts-in-open-source-open-to-all-attendees-no-pre-registration-required)
 
 
-Our agenda is flexible, as a starting point we have brainstormed the following potential discussion topics:
-
-- Addressing and preparing for incidents of mentor misconduct
-- Developments in mentor training and recruitment strategies
-- When mentees are working as part of a team, what can be done to prevent one contributor from doing all the work?
-- How should mentorship programs address contributor overuse of AI tools?
-- Helping first-time contributors build trust and rapport with maintainers
-- Supporting inclusive engagement across languages and timezones
+Our agenda:
+2:45 - **"START HERE" guide for new contributors**  
+3:05 - **Finding collaborators and partners**  
+3:25 - **Non code contributions**  
+3:45 - **break**  
+4:20 - **(over) use of AI tools**  
+4:50 - **wrap up**
 
 📝 Throughout your discussions, we encourage you to take notes and submit them as a pull request to this repository.
 
