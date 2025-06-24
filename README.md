@@ -9,7 +9,9 @@ FLOSS-Mentoring is a cross-sector interest group supporting mentorship in open s
 
 ### 💻 Join a monthly call
 
-We currently meet on the second Tuesday of each month, at 11am PT / 2pm ET / 6pm UTC. If you join our mailing list, you'll receive calendar invites with Zoom links. Each call includes a short presentation from a member sharing their experiences and/or seeking feedback, plus updates from smaller working groups on proposals, proposals, events, etc. Please join us if you're engaged in open source mentorship... or would like to be! Recordings of past presentations can be found [here](https://drive.google.com/drive/folders/1H-kpa3D8IQqtxknu7YxEjTlV6RiooQs1?usp=sharing).
+We currently meet on the second Tuesday of each month, at 11am PT / 2pm ET / 6pm UTC. If you join our mailing list, you'll receive calendar invites with Zoom links. Each call includes a short presentation from a member sharing their experiences and/or seeking feedback, plus updates from smaller working groups on proposals, proposals, events, etc. Please join us if you're engaged in open source mentorship... or would like to be!
+* [Recordings of past presentations](https://drive.google.com/drive/folders/1H-kpa3D8IQqtxknu7YxEjTlV6RiooQs1?usp=sharing)
+* [Meeting notes](https://docs.google.com/document/d/1oE7cOALIYvPrf374id5WX141EvoCCruWkGDJalJzhlo/edit?usp=sharing)
 
 ### 💬 Join our Discord server
 
