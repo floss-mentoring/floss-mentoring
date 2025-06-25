@@ -1,4 +1,4 @@
-# NOTES.mdd
+# NOTES.md
 Here are the notes from our unconference session. Thank you everybody for contributing!
 
 # "START HERE" Guide for New Contributors
@@ -6,11 +6,9 @@ Here are the notes from our unconference session. Thank you everybody for contri
 
 ## How can contributors get started?
 - Find a project that you like, start reading the docs! Fix a typo, grammar, etc. as a starting point
-- TODO: Add more here
 
 ## What can maintainers do to make it easier for first time contributors?
 - CONTRIBUTING.md
-  - TODO: Add resources on how to write a good CONTRIBUTING.md starting points:
   - dev environment setup
   - Keep in mind "[beginners mind](https://en.wikipedia.org/wiki/Shoshin)". Also relevant "[Average Familiarity](https://xkcd.com/2501/)"
   - Writing commit messages, set expectations for maintainer response times
@@ -31,7 +29,6 @@ Here are the notes from our unconference session. Thank you everybody for contri
 
 
 ## Resources
-TODO: add more details about each resource, who is it for
 - CNCF: 
   - https://clotributor.dev/
   - https://mentoring.cncf.io
@@ -47,6 +44,8 @@ TODO: add more details about each resource, who is it for
 
 
 # Finding Collaborators and Partners
+
+
 
 # Non-code Contributions
 
