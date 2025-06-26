@@ -7,7 +7,7 @@ Our session:
 >🔗[Sched event](https://ossna2025.sched.com/event/23YvJ/floss-mentorship-unconference-a-community-event-to-share-shape-scale-mentoring-efforts-in-open-source-open-to-all-attendees-no-pre-registration-required)
 
 
-Our agenda (click a section for that topic's notes):
+Our agenda (click a section for that topic's notes):  
 2:45 - [**"START HERE" guide for new contributors**](/ossna-25/NOTES.md#start-here-guide-for-new-contributors)  
 3:05 - [**Finding collaborators and partners**](/ossna-25/NOTES.md#finding-collaborators-and-partners)    
 3:25 - [**Non code contributions**](/ossna-25/NOTES.md#non-code-contributions)  
