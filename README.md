@@ -21,7 +21,7 @@ Each call includes a short presentation from a member sharing their experiences 
 
 ### 🎟️ Join our events
 
-We regularly host panels at events (such as [FOSSY](https://2024.fossy.us/schedule/presentation/196/index.html), [SCaLE](https://www.socallinuxexpo.org/scale/22x/presentations/mentorship-onramp-open-source-contributions), and [Open Source Summit](https://ossna2024.sched.com/event/1aBP1/panel-discussion-mentorship-as-an-on-ramp-to-open-source-emily-lovell-university-of-california-santa-cruz-kendall-nelson-the-openinfra-foundation-tyler-menezes-codeday-kevin-wang-mentors-in-tech-jonathan-starr-numfocus)). In 2025, we hosted [our first FLOSS mentorship (un-)conference in collaboration with CNCF](/ossna-25).
+We regularly host panels at events (such as [FOSSY](https://2024.fossy.us/schedule/presentation/196/index.html), [SCaLE](https://www.socallinuxexpo.org/scale/22x/presentations/mentorship-onramp-open-source-contributions), [Open Source Summit North America](https://ossna2024.sched.com/event/1aBP1/panel-discussion-mentorship-as-an-on-ramp-to-open-source-emily-lovell-university-of-california-santa-cruz-kendall-nelson-the-openinfra-foundation-tyler-menezes-codeday-kevin-wang-mentors-in-tech-jonathan-starr-numfocus)), and [Open Source Summit Japan](https://ossjapan2025.sched.com/event/29FnD/panel-mentoring-the-next-generation-of-global-contributors-strategies-challenges-and-opportunities-emily-lovell-ucsc-shu-muto-nec-junya-okabe-university-of-tsukuba-tyler-menezes-codeday-masaki-kimura-hitachi). In 2025, we hosted [our first FLOSS mentorship (un-)conference at OSSNA, in collaboration with CNCF](/ossna-25).
 
 We will update this page with upcoming events as they are announced.
 
