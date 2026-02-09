@@ -8,7 +8,7 @@ The group was founded in 2023 by individuals from UCSC OSPO, NumFocus, the Open 
 
 ### 💻 Join a monthly call
 
-We currently meet on the second Tuesday of each month, at 11am PT / 2pm ET / 6pm UTC. ***[Subscribe here to receive calendar invites with Zoom links.](https://groups.google.com/g/floss-mentoring)***
+We typically meet on the second Monday/Tuesday of each month (depending on your timezone) - and we are currently trialing alternating times to support broader global participation. ***[Subscribe here to receive calendar invites with Zoom links.](https://groups.google.com/g/floss-mentoring)***
 
 Each call includes a short presentation from a member sharing their experiences and/or seeking feedback, plus updates from smaller working groups on proposals, proposals, events, etc. Please join us if you're engaged in open source mentorship... or would like to be!
 
