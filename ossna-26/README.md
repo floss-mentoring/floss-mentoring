@@ -8,14 +8,14 @@ Attend our session:
 >🔗[Sched event](https://osselcna2026.sched.com/event/2JRGr/floss-mentorship-unconference-a-community-event-to-share-shape-scale-mentoring-efforts-in-open-source-open-to-all-attendees-no-pre-registration-required) 
 
 Our agenda (please check back day-of, we will update this as soon as topics are decided!):
-3:35 - **Welcome Presentation**
-3:40 - **Pitch + vote on topics**
-3:55 - **Slot 1 - topic TBA**
-4:20 - **Slot 2 - topic TBA**
-4:45 - **Break**
-5:10 - **Slot 3 - topic TBA**
-5:35 - **Slot 4 - topic TBA**
-6:00 - **wrap up**
+- 3:35 - **Welcome Presentation**
+- 3:40 - **Pitch + vote on topics**
+- 3:55 - **Slot 1 - topic TBA**
+- 4:20 - **Slot 2 - topic TBA**
+- 4:45 - **Break**
+- 5:10 - **Slot 3 - topic TBA**
+- 5:35 - **Slot 4 - topic TBA**
+- 6:00 - **wrap up**
 
 📝 Throughout your discussions, we encourage you to take notes and submit them as a pull request to this repository.
 
