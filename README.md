@@ -1,5 +1,8 @@
 ## FLOSS-Mentoring
 
+> [!NOTE] 
+> Attending OSSNA26? Attend our [unconference session](/ossna-26/)! 
+
 ### 💁 Who are we?
 
 FLOSS-Mentoring is a cross-sector community of practice supporting mentorship in open source, composed of educators, researchers, maintainers, program/organization directors, and more. 
