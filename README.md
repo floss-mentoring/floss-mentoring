@@ -1,7 +1,7 @@
 ## FLOSS-Mentoring
 
 > [!NOTE] 
-> Attending OSSNA26? Attend our [unconference session](/ossna-26/)! 
+> Attending Open Source Summit North America 2026? Attend our [unconference session](/ossna-26/)! 
 
 ### 💁 Who are we?
 
@@ -11,9 +11,9 @@ The group was founded in 2023 by individuals from UCSC OSPO, NumFocus, the Open 
 
 ### 💻 Join a monthly call
 
-We typically meet on the second Monday/Tuesday of each month (depending on your timezone) - and we are currently trialing alternating times to support broader global participation. ***[Subscribe here to receive calendar invites with Zoom links.](https://groups.google.com/g/floss-mentoring)***
+We currently meet on the second Monday of each month at 11am US Pacific Time / 2pm US Eastern time / 6pm UTC. ***[Subscribe here to receive calendar invites with Zoom links.](https://groups.google.com/g/floss-mentoring)***
 
-Each call includes a short presentation from a member sharing their experiences and/or seeking feedback, plus updates from smaller working groups on proposals, proposals, events, etc. Please join us if you're engaged in open source mentorship... or would like to be!
+Each call includes a short presentation from a member sharing their experiences, seeking feedback, or leading a discussion on a topic of interest. After that, we have brief updates from smaller working groups on proposals, proposals, events, etc. Please join us if you're engaged in open source mentorship... or would like to be!
 
 * [Recordings of past presentations](https://drive.google.com/drive/folders/1H-kpa3D8IQqtxknu7YxEjTlV6RiooQs1?usp=sharing)
 * [Meeting notes](https://docs.google.com/document/d/1oE7cOALIYvPrf374id5WX141EvoCCruWkGDJalJzhlo/edit?usp=sharing)
