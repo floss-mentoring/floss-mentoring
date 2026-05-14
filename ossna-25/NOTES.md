@@ -99,7 +99,7 @@ Non-code contributions are just as important as code contributions! What can peo
   - (e.g. strategic choice of a license can help determine whether your project is the “best house on the block” or the “fixer upper” down the road, via Karla Padilla)
 
 ## Attribution can be a challenge
-- NumFOCUS working on structured attribution for non-code contributions - Mapping Open Source Science ([MOSS](https://www.opensource.science/))
+- NumFOCUS working on structured attribution for non-code contributions - Mapping Open Source Science ([MOSS](https://www.opensource.science/moss))
 - Attribution in patch notes, mailing list
   - Consider including smaller changes than would usually be written in patch notes if they were made by a first time contributor
 - Use GitHub actions/CI to automatically foreground recent or new contributors
