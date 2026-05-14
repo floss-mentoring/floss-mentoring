@@ -1,5 +1,6 @@
 # NOTES.md
 Here are the notes from our unconference session. Thank you everybody for contributing!
+[Session Recording](https://youtu.be/EjV1j5QIrpI)
 
 # "START HERE" Guide for New Contributors
 - For coders, the starting path is a lot more obvious. For people who haven’t coded before, what does the pathway look like?
