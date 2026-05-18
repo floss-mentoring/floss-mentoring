@@ -10,11 +10,11 @@ Attend our session:
 Our agenda (please check back day-of, we will update this as soon as topics are decided!):
 - 3:35 - **Welcome Presentation**
 - 3:40 - **Pitch + vote on topics**
-- 3:55 - **Slot 1 - topic TBA**
-- 4:20 - **Slot 2 - topic TBA**
+- 3:55 - **AI Equity**
+- 4:20 - **What AI skills do mentees need? How do we prepare junior devs? How do we balance AI literacy while preserving foundational learning?**
 - 4:45 - **Break**
-- 5:10 - **Slot 3 - topic TBA**
-- 5:35 - **Slot 4 - topic TBA**
+- 5:10 - **Onboarding**
+- 5:35 - **Knowledge walled gardens (docs in Discord, etc.)**
 - 6:00 - **wrap up**
 
 📝 Throughout your discussions, we encourage you to take notes and submit them as a pull request to this repository.
