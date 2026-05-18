@@ -15,7 +15,7 @@ Our agenda (please check back day-of, we will update this as soon as topics are 
 - 4:45 - **Break**
 - 5:10 - **Onboarding**
 - 5:35 - **Walled gardens of knowledge (docs in Discord, etc.)**
-- 6:00 - **wrap up**
+- 6:00 - **Wrap up**
 
 📝 Throughout your discussions, we encourage you to take notes and submit them as a pull request to this repository.
 
